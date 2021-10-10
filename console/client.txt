@@ -1,0 +1,10 @@
+84 ; Dan ; True
+38 ; Maria ; True
+88 ; Gabriel ; True
+91 ; Diana ; True
+98 ; Gabriel ; True
+47 ; new_name ; True
+69 ; Mara ; True
+86 ; Gabriel ; True
+5 ; Mirel ; True
+0 ; 0 ; True

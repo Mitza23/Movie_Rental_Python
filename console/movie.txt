@@ -1,0 +1,10 @@
+81 ; Alien ; average ; romance
+42 ; SpiderMan ; good ; adventure
+64 ; Armageddon ; average ; comedy
+94 ; Sherlock Holmes ; average ; life
+43 ; Alien ; OH MY F*CKING GOD THAT'S AWESOME ; animation
+56 ; Avatar ; good ; comedy
+35 ; Avatar ; good ; animation
+34 ; Avengers ; terrible ; adventure
+53 ; Wolf of WallStreet ; average ; comedy
+59 ; Cars 2 ; average ; comedy
